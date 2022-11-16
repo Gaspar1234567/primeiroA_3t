@@ -92,5 +92,3 @@ function calcule() {
     }
     document.getElementById("resultado").innerHTML = r;
 }
-<input id="raiz"readonly type="text"><br>
-input id="a" placeholder="Digite a" type="text"><br>
